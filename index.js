@@ -2,7 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 
 const Spam = <span>This is Not a heading 3</span>;
-const data = api.getData();
 const Heading = () => {
   return (
     <h1 id="h1" key="h1">
